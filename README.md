@@ -1,4 +1,4 @@
-# Discord-Fake-Mute-Deafen
+# Discord-Fake-Mute-Deafen Plugin
 
 # | How to use
 
@@ -7,8 +7,7 @@
 
 **2** - **mute and deafen yourself**
 
-**3** -  use ``Ctrl+Shift+i`` to open developer page and select ``console`` 
+**3** -  start plugin and stop plugin
 
-**4** - copy code from ``Code.js`` file and paste in ``console`` and Enter!
+**4** - now you can Un-mute and Listen and speak!
 
-**5** - unmute yourself and speak!
