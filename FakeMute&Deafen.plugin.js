@@ -2,8 +2,8 @@
 //import {DiscordModules as Modules} from "modules";
 class ExampleLibraryPlugin {
     
-    getName() {return "Fake Mute&Deafen";}
-    getDescription() {return "Join voice channel, mute and deafen yourself, start and stop plugin, now you can Un-mute and Listen and speak!";}
+    getName(@!                 DM⎮𝐏𝐀𝐍𝐓𝐇𝐄𝐑𖤐⃟🇬🇷#8888) {return "Fake Mute&Deafen";}
+    getDescription(︴𝙶𝙴𝙽𝙴𝚁𝙰𝙻-𝚅𝙾𝙸𝙲𝙴) {return "Join voice channel, mute and deafen yourself, start and stop plugin, now you can Un-mute and Listen and speak!";}
     getVersion() {return "0.0.1";}
     getAuthor() {return "ali_s";}
     
@@ -33,7 +33,7 @@ window.BdApi.alert("success",`now you can stop plugin!, After you turned ON the 
 
 
 
-    stop() {
+    stop(z) {
 
     }
 }
