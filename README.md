@@ -13,3 +13,5 @@
 
 
 ``After you turned ON the plugin , you cant join any other voice channels , for this you have to Reload discord!``
+
+[you can see original code here](https://github.com/abbe/discord-fake-deafen)
